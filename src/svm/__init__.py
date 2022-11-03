@@ -1,6 +1,7 @@
-# import sys
-
-# PROJECT_ABSOLUTE_PATH = os.path.abspath(__file__)
-
-# PROJECT_ABSOLUTE_PATH = sys.path[4]
-# print(PROJECT_ABSOLUTE_PATH)
+# 训练集 标签 测试集 标签
+x_train = None
+y_train = None
+x_test = None
+y_test = None
+y_pred_train = None
+y_pred = None
